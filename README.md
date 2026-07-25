@@ -6,7 +6,7 @@
 
 ## ✨ Демо
 
-[Посмотреть демо]([https://your-demo-link.com](https://effymeow.github.io/lendingsite_predictions/))  
+[Посмотреть демо][https://your-demo-link.com](https://effymeow.github.io/lendingsite_predictions/)
 
 ---
 
